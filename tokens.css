@@ -1,0 +1,18 @@
+:root {
+  /* Primary */
+  --ss-yellow-primary: #ffb703;
+  --ss-yellow-mustard: #f4c430;
+  --ss-yellow-golden: #ffc107;
+
+  /* Support */
+  --ss-charcoal: #1c1c1c;
+  --ss-cream: #fff8e1;
+  --ss-brown: #3a2f1b;
+  --ss-alert-red: #b00020;
+
+  /* UI */
+  --ss-radius-card: 16px;
+  --ss-radius-pill: 999px;
+  --ss-shadow-soft: 0 8px 24px rgba(28, 28, 28, 0.08);
+  --ss-border-soft: 1px solid rgba(28, 28, 28, 0.08);
+}
